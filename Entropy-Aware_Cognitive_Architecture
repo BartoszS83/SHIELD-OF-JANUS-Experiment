@@ -1,0 +1,14 @@
+https://doi.org/10.5281/zenodo.20425496
+
+Entropy-Aware Cognitive Architecture for AI Systems / EACA & SCA Shield – Extended Framework
+
+
+Abstract
+
+This document presents an extended framework integrating Semantic Information Streams (SIS) [2][3][4],
+Entropy-Aware Constitutional AI (EACA), and SCA Shield. The system introduces dynamic [1],
+non-stationary evaluation mechanisms and human-in-the-loop stabilization,
+resulting in emergent resistance to reward hacking and exploit strategies without relying on hard constraints.
+The proposed design also suggests possibility of emergent properties such as improved stability of interaction
+trajectories and reduced susceptibility to degenerate or low-information states, including some forms of model hallucination.
+To operationalize the framework, a Decision Layer is introduced. Its detailed implementation is considered out of scope for this work.
