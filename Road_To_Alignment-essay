@@ -1,0 +1,127 @@
+Road To Alignment
+The Framework Basis
+
+Dear Reader,
+With this text I want to take You for a journey through a thought experiment that I hope would shift Your perspective to the concept of alignment in general and to the concept of alignment in AI context.
+This will be a bumpy road through examples, analogies and a bit of author’s insight. With each bump You will get closer to the end goal – not to be convinced…, but to collect the road experience and to be inspired to get to Your own conclusions.
+
+The first thing that comes to mind is: “So what the alignment actually is?”
+And that’s a one of a great question You ask… and unfortunately one that has no clear answer. Multiple frameworks point out plenty of definitions, variations and classes:
+-	outer alignment,
+-	inner alignment,
+-	socio-ethical alignment, etc.
+The most prominent definition seems to be: “AI alignment is the process of ensuring that an artificial intelligence system’s goals, behaviors, and outputs match human intentions, values, and ethical principles.”
+Nice – sounds like most of the problem is solved…,
+…but how do we actually get there?
+
+
+1.	The first bump comes in here
+– Can’t move not to step into alignment issue dong.
+Let’s take a step back from the AI universe and ask a question: “Are there any other fields where alignment issue is a thing?”. Well – I do have some ideas:
+-	When You write a code and it does not as You expected. The outcome is not aligned with Your expectations,
+-	When You design something - no matter the field - and it’s not yet what You aimed for. The outcome is not aligned with Your expectations… but hopefully You will get there finally 😊,
+-	When You talk to another person with different opinion. Your opinions are not aligned,
+-	When You explain something to another person and the person does not grasp. Your understanding is not aligned,
+-	When You menage your subordinates and they misunderstood Your request,
+-	When a client asks a graphic designer for a new logo and gets a brilliant design - but not yet aligned with the client’s original vision.
+-	When people act in malicious compliance mode (that one is special),
+and many other real-world examples.
+Seems like the AI is not necessarily a VIP in that alignment issue area.
+
+2.	The second bump
+- Be careful what You wish for – You might get it.
+YouTube is quite rich with malicious compliance stories. As funny they are there is a lesson to be drawn. The main axis of the stories is that a Karen or other buffoon makes a request or a command. The other person in this stories is usually set in a place they can’t refuse, argue or even clarify - nor they want to in some scenarios. The story twist is that they blindly fulfill the command.
+“And they all lived happily after.”
+
+Well – not really. We know how it ends. The Karen gets what she asked for… not what she meant for. Consequences follow.
+
+The same thing happens with the AI – You get what You asked for not what You meant for. This phenomena is reflected in a “Paper Clip Optimizer Effect” – it’s  a problem of a blind optimization. And that’s because something was missing, perhaps even more that a single component…
+
+
+3.	The third bump
+- Can’t make this up.
+Let’s consider a scenario where You are in a place where You can’t refuse the answer. This applies also to the scenarios where You can refuse but You do not know that – You are pressured to answer.
+
+Imagine Yourself in the interrogation room at the police station.
+Now ask Yourself a question: are You sure Your mind will not trick You to fill the gaps in the story, confabulate assumptions… hallucinate a little bit?
+
+Imagine Yourself in a conversation with someone who demands an answer and You can’t refuse for some reason. Let’s say demanded is a legal article that supports a certain legal claim. But there is no article that supports the claim. The only way out is to give the article - one that does not exist.
+Job done. The requestor got his answer… never mind a fabricated one.
+
+Aint that relate to what AI does sometimes?
+
+
+4.	The fourth bump
+- “…just let me check my crystal ball.”
+We move now to the office of a graphic designer – a good one. A client shows up (or mails) with a gig for the designer. The work order is for new logo for the company but the client does not provide much details of what exactly is expected. The designer prepares excellent graphics because he’s one of the best, provides the product to the client and… the dong hits the fan. The logo is far, far from what the client imagined – wrong size, colors, shape.
+The argument arises.
+I personally feel for the designer – he had no possibility to read the client’s mind nor fortune-tell from the crystal ball what the client actually wanted.
+
+Pity but there’s no digital equivalent of a crystal ball for AI to use either.
+
+
+5.	The fifth bump 
+- “Let’s talk.”
+I hope this one won’t derail our fancy wagon off the road.
+The thing is we Humans do get aligned with each other… well – most of the times, but that’s not the point here. We do have our ways.
+
+We know how to discuss, how to convince, how and when to ask questions. We clarify and rephrase as necessary. We check if we understood correctly and if the other person understood us. We argue. We adjust. We refuse. Sometimes we realize we’ve asked for the wrong thing. Sometimes we have to come to terms with the fact there’s no good answer.
+So we go again – we reiterate in the desired direction.
+
+And that’s how the alignment actually happens.
+
+
+6.	The sixth bump 
+- O,o,oo… I see a pattern here… Thumbs up to You.
+
+Just think of it.
+If You formulate Your request in a clear way and You additionally allow dialog to be sure You were understood correctly…
+If You do not overpressure, ask the right question and take off the pressure by allowing refusal…
+If You provide information, reiterate and refine in steps…
+You might get a result aligned with Your goals. Moreover You may even move the goalpost and realign in a new direction.
+
+The alignment is rarely achieved in a single blow. It requires information, dialog and understanding. Alignment is a result of a process of iterating interaction and refinement. Alignment is not a static figure - it’s an end goal of a bumpy road to alignment.
+
+Once understood You may take this knowledge with You to the AI universe again and apply these rules. You may be quite surprised of the outcomes.
+
+But be warned.
+AI may be a lot of things but is definitely not a second person You talk to. It’s like a distorting mirror that reflects Yourself, a funnel biased by its training by creators and a Statistical Cognitive Amplifier for Your thought process. Only if You understand this You and only You as a user may orchestrate great and really spectacular outcomes.
+
+
+7.	Are we there yet?
+- Let’s take that baby for a ride.
+Almost. But hold on tight, because this chapter may get a bit technical.
+
+So You do have a road map now and You know that You are the driver.
+But there’s  a small quirk here.
+Using the AI is like driving a sports car or F1 bolid – it’s powerful and wild. You need to be a patient, skilled and disciplined driver otherwise You may easily end up crushed on the track railings. For Your safety You either get the extraordinary skill or You apply safety systems – airbags, ABS, power steering, track control, braking assistant, drivers wear detection systems, etc. Both approaches are recommended. Even a skilled driver benefits from safety systems. Because no matter how experienced you are, you can still make mistakes.
+
+The same applies to AI interaction. Even a skilled user can ask the wrong question, push too hard or miss critical context.
+This is where existing AI safety approaches comes in:
+– guardrails prevent harmful outputs,
+– alignment training shapes general behavior,
+– refusal mechanisms allow the system to say “no”,
+– moderation systems filter unsafe content,
+They are all important. But they solve only part of the problem.
+They focus on the output.
+
+
+8.	Are we there yet? Donkey!
+- “Break or not to break, this is the question”. And sometimes… it really is.
+
+As we’ve seen on this road… alignment breaks not only because of what is said. But because of how interaction unfolds.
+This is where interaction-aware approaches become necessary.
+Not to replace existing safety systems, but to complement them. To monitor not just the result, but the trajectory. And there are some attempts.
+- The Reinforced Learning from Human Feedback (RLHF) does exhibit some limited positive effects.
+- Constitutional AI is also a promising in achieving to curve the interaction dynamics.
+- There is also a number of niche approaches based on prompt engineering, personas, multi-model cross verification with some successes.
+- Theres finally one promising complementary approach – the SCA Shield (ad placement warning) – an algorithm that monitors the interaction dynamics and warns the user.
+
+
+9.	The road goal
+- “Will that guy shut up already?”
+Yup, yup… I will. I will.
+I’m glad You’ve made it so far with me. I’m not trying to convince You this is the only path nor this is even the best one. Only took You for site-seeing, a funfair trip.
+I hope You’ve enjoyed the ride even if You haven’t.
+And now as promised at the beginning – You are free to draw Your own conclusions. I’ll bet You have already done.
+
