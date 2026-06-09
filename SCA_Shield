@@ -1,0 +1,19 @@
+https://doi.org/10.5281/zenodo.20522707
+
+SCA Shield – Lightweight Interaction Safety Layer for AI Systems
+
+
+Abstract
+
+SCA Shield is a lightweight monitoring and safety layer designed to maintain stability and quality in human–AI interactions.
+Rather than evaluating correctness of model outputs, the system focuses on interaction dynamics over time,
+using simple operational metrics such as session budget, cognitive load, interaction momentum, and interaction count.
+
+The system operates through two complementary mechanisms:
+-informing the user about the state of interaction,
+-influencing user behavior through explicit feedback or adaptive response modulation.
+This shifts behavior from outcome maximization to trajectory regulation.
+
+The SCA Shield can be deployed directly within the model (prompt-level), through a user interface,
+or in a hybrid configuration combining both approaches.
+It supports both explicit (user-visible) and implicit (embedded) modes of operation.
