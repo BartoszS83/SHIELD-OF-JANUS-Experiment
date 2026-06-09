@@ -1,0 +1,17 @@
+https://doi.org/10.5281/zenodo.20376856
+
+Semantic Information Streams: Toward a Dynamic Theory of Information
+
+Abstract
+
+Information is typically treated as a static object, evaluated at individual points in time.
+However, in many real-world processes, information unfolds as a continuous, time-dependent structure.
+In this work we introduce the concept of an Information Stream (IS) defined as an ordered sequence of information states evolving over time.
+We further identify Semantic Information Streams (SIS) as a specific class of such streams,
+where individual states are interpretable as meaningful entities within a given context.
+We propose a minimal set of metrics to characterize semantic streams, including novelty, redundancy, and entropy.
+These metrics enable parameterization of information streams and allow them to be treated as signals evolving in time.
+This perspective shifts the analysis of information from static evaluation to dynamic characterization.
+In contrast to descriptive approaches to information dynamics,
+the proposed framework enables parameterized representation of information streams,
+providing a foundation for applying concepts from dynamical systems and control theory.
