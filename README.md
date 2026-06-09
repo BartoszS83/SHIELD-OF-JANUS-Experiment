@@ -38,6 +38,13 @@ With a constraint: wN² + wR² + wH² ≤ 1
 👉 No runaway amplification  
 👉 No uncontrolled chaos  
 
+
+## 🔬 Execution instructions
+1. Copy the text of SCHIELD_OF_JANUS_Experimrnt
+2. Paste the txt in czat window and send
+
+- alternativelly save as document and and command the model to execute the commands in the file
+
 ----------------------------------------------------------------------
 
 ## 🛡️ Safety layer
