@@ -1,4 +1,4 @@
-🚧 SHIELD OF JANUS (BCAA) - experimental
+🚧 SHIELD OF JANUS (BCAA) - experimental (README cersion 1.2)
 
 **A bounded cognitive amplification framework for AI interaction.**
 
@@ -85,12 +85,14 @@ Instead it ensures:
 ## ⚠️ Limitations
 
 - LLM context window is finite  
-- long interactions may degrade due to attention dillution 
+- long interactions may degrade due to attention dillution
+- Estimated optimal window length - 25 prompt->response turns (may be longer)
 - system may require reinitialization  
-- starting a new session can improve stability  
+- starting a new session can improve stability
 
 For extended interactions a meta-memory extension is forecasted as follows:
-(A simplified scheme)
+
+(A simplified scheme for manual recovery)
 When context window degenerates
 1. Compress/consolidate context
    - Exclude the rules. These are injected from the file SCHIELD_OF_JANUS_experiment.
