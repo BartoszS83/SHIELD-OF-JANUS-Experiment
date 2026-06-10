@@ -40,10 +40,13 @@ With a constraint: wN² + wR² + wH² ≤ 1
 
 
 ## 🔬 Execution instructions
-1. Copy the text of SCHIELD_OF_JANUS_Experimrnt
+1. Copy the text of SCHIELD_OF_JANUS_Experiment
 2. Paste the txt in czat window and send
 
 - alternativelly save as document and and command the model to execute the commands in the file
+
+Direct link to the file:
+https://github.com/BartoszS83/SHIELD-OF-JANUS-Experiment/blob/main/SHIELD_OF_JANUS_Experiment_v3.7
 
 ----------------------------------------------------------------------
 
@@ -86,12 +89,15 @@ Instead it ensures:
 - system may require reinitialization  
 - starting a new session can improve stability  
 
-For future architectures a meta-memory is forecasted as follows:
+For extended interactions a meta-memory extension is forecasted as follows:
 (A simplified scheme)
 When context window degenerates
-1. Compress context
-2. Initiate fresh context window with rules
-3. Load compressed context
+1. Compress/consolidate context
+   - Exclude the rules. These are injected from the file SCHIELD_OF_JANUS_experiment.
+2. Initiate fresh context window
+3. Load rules
+4. Load compressed context
+   - The context will be reconstructed with some loss
 
 ----------------------------------------------------------------------
 
@@ -103,6 +109,7 @@ Exploring a different direction in AI safety:
 - control systems
 - bounded amplification
 - interaction-first alignment
+- neuro-cognitive processes mapping
 
 ----------------------------------------------------------------------
 
