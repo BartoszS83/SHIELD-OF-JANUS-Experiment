@@ -1,4 +1,4 @@
-🚧 SHIELD OF JANUS (BCAA) - experimental (README cersion 1.2)
+🚧 SHIELD OF JANUS (BCAA) - experimental (README version 1.2)
 
 **A bounded cognitive amplification framework for AI interaction.**
 
