@@ -1,4 +1,4 @@
-🚧 SHIELD OF JANUS (BCAA) - experimental (README version 1.2)
+🚧 SHIELD OF JANUS (BCAA) - experimental (README version 2.0)
 
 **A bounded cognitive amplification framework for AI interaction.**
 
@@ -90,7 +90,7 @@ Instead it ensures:
 - system may require reinitialization  
 - starting a new session can improve stability
 
-For extended interactions a meta-memory extension is forecasted as follows:
+For extended interactions a meta-memory extension is forecasted in agentic memory management style:
 
 (A simplified scheme for manual recovery)
 When context window degenerates
