@@ -1,4 +1,4 @@
-# 🚧 SHIELD OF JANUS (BCAA) - experimental (README version 3.0)
+# 🚧 SHIELD OF JANUS (BCAA) - experimental (README version 3.1)
 
 **A Bounded Cognitive Amplification framework for AI interaction.**
 
@@ -11,37 +11,34 @@ an evaluator or control layer where dynamical processes occur.
 This is a control system for AI interaction dynamics.
 It does not enforce correctness — it constrains the dynamics of interaction.
 
-Shield Of Janus is intended as an Augumented Human Inteligence framework designed for domains where the
+Shield Of Janus is intended as an Augmented Human Intelligence framework designed for domains where the
 quality of reasoning, exploration and decision process is more important than maximum task automation.
 
 Instead of optimizing outputs, this framework:
 - stabilizes interaction trajectories
 - ampifies human cognitive capabilities
-- acts as a protective later
+- acts as a protective layer
 - constrains amplification
 - minimizes hallucinations and degenerative loops
 
 ----------------------------------------------------------------------------------------------
 
-# Why and for whoom?
+# Why and for whom?
 
 Because optimizing AI is not enough.
 We also need to control how it *behaves over time*.
 
 ## Target audience
-
 Wherever the process is more important then the raw output efficiency:
-1. Education
-2. Augumented Human Intelligence Layer
-3. Engineering process support
-4. Project management (planning and decision process support)
-5. Legal reasoning support
-6. Expert systems
-7. Decission support systems
-8. Analytical systems
-9. Process evaluation systems
-10. Resoning support
-11. Human-AI interactions safety
+
+Interaction-critical domains:
+- education
+- human-AI collaboration
+
+High-value domains:
+- decision support
+- engineering
+- legal reasoning
 
 ----------------------------------------------------------------------------------------------
 
@@ -62,7 +59,7 @@ The system models each interaction step using three signals:
 - **Redundancy (R)** → repetition / looping (damping)  
 - **Entropy (H)** → controlled variability  
 
-With a constraint: wN² + wR² + wH² ≤ 1
+The signals are normalized and weighted to form a bounded energy constraint: wN² + wR² + wH² ≤ 1
 
 👉 No runaway amplification  
 👉 No uncontrolled chaos  
@@ -70,23 +67,21 @@ With a constraint: wN² + wR² + wH² ≤ 1
 ----------------------------------------------------------------------------------------------
 
 # 🔬 Execution instructions
-(one of the following)
-1. Just pase in the chat and command the model to execute the script instructions.
-   - easiest and most direct, but may dilute with context length - recommended for basic user.
-2. Set the script as the system prompt or it's part
-3. Set as the part of the constitution for agent (nedd to remove some parts for looped elicitation)
+
+The framework can be deployed via system prompts, agent configurations, or external evaluators.
+For quick testing - just paste the script in the chat window.
 
 ----------------------------------------------------------------------------------------------
 
 # 🛡️ Safety layer
 
 Instead of static guardrails, the system uses dynamic control:
-- ✅ **REINFORCE** → controlled amplification
+- ✅ **ACCEPT** → standard response
 - ✅ **REINFORCE** → controlled amplification  
 - ✅ **MODIFY** → local correction  
 - ✅ **REGENERATE** → reset broken trajectory  
 - ✅ **VETO** → hard stop on instability  
-- ✅ Additional modules functionalities - False Dychotomy Detection, planned: ICA Infomax Treshold, Completness Certainty Treshold, Cognitive Overload Safeguard
+- ✅ Additional modules functionalities - False Dichotomy Detection, planned: ICA Infomax Treshold, Completeness Certainty Treshold, Cognitive Overload Safeguard
 
 Plus:
 - bounded energy (no over-optimization)  
@@ -115,7 +110,7 @@ Instead it ensures:
 # ⚠️ Limitations in standard chat execution
 
 - LLM context window is finite  
-- long interactions may degrade due to attention dillution
+- long interactions may degrade due to attention dilution
 - Estimated optimal window length - 25 prompt->response turns (may be much longer for simple conversations)
 - system may require reinitialization or restart in a new session to keep stability
 
@@ -139,11 +134,13 @@ When context window degenerates
 ----------------------------------------------------------------------------------------------
 
 
-# 🧪 Status and future work
+# 🧪 Status and future work and exploratory directions
+This section outlines the current maturity level of the framework and its future research directions.
 
-Status: experimental framework.
 
-## Exploring a different directions in AI safety:
+## Status: experimental framework.
+
+Exploring different directions in AI safety:
 - control systems
 - bounded amplification
 - interaction-first alignment
@@ -152,16 +149,16 @@ Status: experimental framework.
 ## Future work
 - implement Shield Of Janus with stand alone AI agent
 - review existing memory management methods and optimize own methods for the system declarative memory
-- explore possibilities of external metrics evaluator built
+- explore possibilities of external metrics evaluator (independent evaluation module)
 - explore possibilities for Constitutional AI style system with external evaluator
-- perform qualititative reserch with external evaluator data
+- perform qualitative reserch with external evaluator data
+
+## Exploratory directions
 - explore possibilities to use the evaluator data for fine-tuning
-      - - performative memory creation
-- reserch the influence of create performative memory on reasoning and behavior of the model
+      - performative memory creation (preserve behavioral patterns within model weights)
+- research the influence of creating performative memory on reasoning and behavior of the model
 - explore the behavioral learning modes and memory processes for AI
-      - - Digital Sarkesian Cycle (digital sleep) for declarative and performative memory
-
-
+      - Digital Sarkesian Cycle (digital sleep) for declarative and performative memory
 
 # Author
 Bartosz S.
